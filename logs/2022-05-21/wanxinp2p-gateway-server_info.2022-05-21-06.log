@@ -1,0 +1,3 @@
+[wanxinp2p-gateway-server][${env:SERVER_PORT}] 2022-05-21 06:10:47,369 INFO [DiscoveryClient-HeartbeatExecutor-0][DiscoveryClient.java:850] - DiscoveryClient_GATEWAY-SERVER/gateway-server:10.30.44.208:53010 - Re-registering apps/GATEWAY-SERVER
+[wanxinp2p-gateway-server][${env:SERVER_PORT}] 2022-05-21 06:10:47,377 INFO [DiscoveryClient-HeartbeatExecutor-0][DiscoveryClient.java:826] - DiscoveryClient_GATEWAY-SERVER/gateway-server:10.30.44.208:53010: registering service...
+[wanxinp2p-gateway-server][${env:SERVER_PORT}] 2022-05-21 06:10:51,767 INFO [DiscoveryClient-HeartbeatExecutor-0][DiscoveryClient.java:835] - DiscoveryClient_GATEWAY-SERVER/gateway-server:10.30.44.208:53010 - registration status: 204

@@ -1,0 +1,3 @@
+[wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-20 23:59:48,299 INFO [DiscoveryClient-HeartbeatExecutor-0][DiscoveryClient.java:850] - DiscoveryClient_CONSUMER-SERVICE/consumer-service:10.30.44.208:53050 - Re-registering apps/CONSUMER-SERVICE
+[wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-20 23:59:48,302 INFO [DiscoveryClient-HeartbeatExecutor-0][DiscoveryClient.java:826] - DiscoveryClient_CONSUMER-SERVICE/consumer-service:10.30.44.208:53050: registering service...
+[wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-20 23:59:48,313 INFO [DiscoveryClient-HeartbeatExecutor-0][DiscoveryClient.java:835] - DiscoveryClient_CONSUMER-SERVICE/consumer-service:10.30.44.208:53050 - registration status: 204

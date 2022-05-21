@@ -1,0 +1,8 @@
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:43,663 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:43,664 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:611] - Evicting 1 items (expired=2, evictionLimit=1)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:43,664 WARN [Eureka-EvictionTimer][AbstractInstanceRegistry.java:623] - DS: Registry: expired lease for ACCOUNT-SERVICE/account-service:10.30.44.208:53030
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:43,665 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:330] - Cancelled instance ACCOUNT-SERVICE/account-service:10.30.44.208:53030 (replication=false)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:48,297 WARN [http-nio-53000-exec-6][AbstractInstanceRegistry.java:353] - DS: Registry: lease doesn't exist, registering resource: CONSUMER-SERVICE - consumer-service:10.30.44.208:53050
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:48,297 WARN [http-nio-53000-exec-6][InstanceResource.java:116] - Not Found (Renew): CONSUMER-SERVICE - consumer-service:10.30.44.208:53050
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:48,311 INFO [http-nio-53000-exec-10][AbstractInstanceRegistry.java:266] - Registered instance CONSUMER-SERVICE/consumer-service:10.30.44.208:53050 with status UP (replication=false)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-20 23:59:48,825 INFO [http-nio-53000-exec-1][AbstractInstanceRegistry.java:266] - Registered instance CONSUMER-SERVICE/consumer-service:10.30.44.208:53050 with status UP (replication=true)

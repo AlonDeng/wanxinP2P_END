@@ -1,0 +1,11 @@
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:10,105 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 31427ms
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:10,112 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:611] - Evicting 1 items (expired=3, evictionLimit=1)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:10,112 WARN [Eureka-EvictionTimer][AbstractInstanceRegistry.java:623] - DS: Registry: expired lease for GATEWAY-SERVER/gateway-server:10.30.44.208:53010
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:10,115 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:330] - Cancelled instance GATEWAY-SERVER/gateway-server:10.30.44.208:53010 (replication=false)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:19,349 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2868ms
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:29,358 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:38,141 WARN [http-nio-53000-exec-2][AbstractInstanceRegistry.java:353] - DS: Registry: lease doesn't exist, registering resource: GATEWAY-SERVER - gateway-server:10.30.44.208:53010
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:38,145 WARN [http-nio-53000-exec-2][InstanceResource.java:116] - Not Found (Renew): GATEWAY-SERVER - gateway-server:10.30.44.208:53010
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:38,195 INFO [http-nio-53000-exec-9][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:10.30.44.208:53010 with status UP (replication=false)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:38,715 INFO [http-nio-53000-exec-5][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:10.30.44.208:53010 with status UP (replication=true)
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 08:55:39,367 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
