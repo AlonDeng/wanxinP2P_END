@@ -58,3 +58,5 @@
 [wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 21:21:12,629 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
 [wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 21:21:22,632 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
 [wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 21:21:32,636 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 21:21:42,640 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+[wanxinp2p-discover-server][${env:SERVER_PORT}] 2022-05-21 21:21:52,644 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms

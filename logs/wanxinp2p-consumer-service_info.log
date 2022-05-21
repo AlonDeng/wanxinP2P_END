@@ -58,3 +58,5 @@
 [wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-21 21:20:45,248 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
 [wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-21 21:21:15,243 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
 [wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-21 21:21:15,249 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-21 21:21:45,244 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[wanxinp2p-consumer-service][${env:SERVER_PORT}] 2022-05-21 21:21:45,249 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
